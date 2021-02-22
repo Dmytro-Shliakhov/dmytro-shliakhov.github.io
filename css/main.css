@@ -279,10 +279,9 @@ svg {
       margin: 0; }
 
 .person {
-  text-align: center;
-  margin-bottom: 35px; }
+  text-align: center; }
   .person img {
-    max-width: 315px;
+    max-width: 275px;
     display: inline-block;
     border-radius: 50%; }
 
